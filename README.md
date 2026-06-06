@@ -72,8 +72,6 @@ An AI-powered study companion that helps students organize learning resources, g
 
 A modern health and wellness platform focused on personalized fitness, lifestyle tracking, and user-centric experiences. Designed to provide seamless performance monitoring and engagement features.
 
----
-
 ✨ More projects available in my repositories — always building and exploring new ideas!
 
 ---
