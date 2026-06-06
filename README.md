@@ -2,8 +2,6 @@
 
 ### 🚀 Full Stack Developer | Open Source Contributor | Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-
 ---
 
 ## 👨‍💻 About Me
@@ -12,7 +10,7 @@
 
 💡 Passionate about building scalable web applications and solving real-world problems
 
-🌍 Active Open Source Contributor
+🌍 Active Open Source Contributor in GSSoC
 
 ⚡ Competitive Programmer focused on Data Structures & Algorithms
 
@@ -62,31 +60,27 @@
 
 ## 🌟 Featured Projects
 
-### 🎯 Resume Analyzer
+### 🎓 LearLoop - KCS
 
-AI-powered resume analysis platform that provides ATS insights, skill-gap detection, and personalized recommendations.
+A comprehensive learning and course management platform designed to streamline student engagement, course tracking, and educational workflows. Built with a focus on scalability, user experience, and modern web technologies.
 
-### 🎯 Forign Beauty
+### 🧠 NeuroStudy Hub
 
-E-commerce skincare platform focused on the Indian market with modern UI and seamless shopping experience.
+An AI-powered study companion that helps students organize learning resources, generate smart insights, track progress, and improve productivity through intelligent educational tools.
 
-### 🎯 Portfolio Website
+### 💪 BioFlex
 
-Personal portfolio showcasing projects, skills, achievements, and open-source contributions.
+A modern health and wellness platform focused on personalized fitness, lifestyle tracking, and user-centric experiences. Designed to provide seamless performance monitoring and engagement features.
 
 ---
 
-## 📊 GitHub Stats
-
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+✨ More projects available in my repositories — always building and exploring new ideas!
 
 ---
 
 ## 🏆 2026 Goals
 
-✅ 500+ GitHub Contributions
+✅ 200+ GitHub Contributions
 
 ✅ Contribute to Major Open Source Projects
 
@@ -94,17 +88,13 @@ Personal portfolio showcasing projects, skills, achievements, and open-source co
 
 ✅ Master System Design
 
-✅ Strengthen Competitive Programming Skills
-
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [your-email@example.com](mailto:skrishsoni@gmail.com)
 
-💼 LinkedIn: your-linkedin-profile
-
-🌐 Portfolio: your-portfolio-link
+💼 LinkedIn: https://www.linkedin.com/in/krish-soni-1035ab314/
 
 ⭐ If you like my work, consider starring my repositories!
 
